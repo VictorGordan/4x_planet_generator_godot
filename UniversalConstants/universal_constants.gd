@@ -8,7 +8,7 @@ const n: int = 21 # (n - 1) is the smallest number of hexagons between two penta
 # large: n = 24 (5762 polys)
 # huge: n = 26 (6762 polys)
 # colossal: n = 32 (10242 polys)
-const polys: int = 10 * n * n + 2 #Number of faces a class 1 goldberg polyhedra has.
+const polys: int = 10 * n * n + 2 #Number of faces a class 1 goldberg polyhedron has.
 
 const num_plates: int = 14 # number of tectonic plates
 # between 7 and 21
